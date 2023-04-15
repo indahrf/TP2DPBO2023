@@ -25,6 +25,7 @@ Saya Indah Resti Fauzi NIM 2103507 mengerjakan Tugas Praktikum 2 dalam mata kuli
   
 ![login](https://user-images.githubusercontent.com/99266430/232199103-ea447cf8-4548-4fd9-820e-302e7acc6532.png)
 
+
 2. Register
   - Data tidak boleh kosong dan sama seperti data yang telah ada
   - Tombol register untuk konfirmasi pendaftaran
@@ -32,11 +33,13 @@ Saya Indah Resti Fauzi NIM 2103507 mengerjakan Tugas Praktikum 2 dalam mata kuli
   
 ![register](https://user-images.githubusercontent.com/99266430/232199158-be566f8c-139e-4bc0-a988-7cab434beebf.png)
 
+
 3. Laman Utama
   - kanan : Form untuk menambahkan data baru, data yang diinputkan merupakan data milik id_akun yang sedang login
   - kiri  : Daftar playlist lagu milik akun yang sedang login
   
 ![main](https://user-images.githubusercontent.com/99266430/232199279-2485cc0f-5f0b-4e87-ba27-291eb6245826.png)
+
 
 4. Add
 
@@ -46,6 +49,7 @@ Saya Indah Resti Fauzi NIM 2103507 mengerjakan Tugas Praktikum 2 dalam mata kuli
 
 ![add (3)](https://user-images.githubusercontent.com/99266430/232199426-89b66ccc-2b85-493e-9f38-bbb251ab6c1b.png)
 
+
 5. Update
 
 ![update (1)](https://user-images.githubusercontent.com/99266430/232199443-d3b827c0-bfe3-494d-9493-12751e96fd44.png)
@@ -54,7 +58,9 @@ Saya Indah Resti Fauzi NIM 2103507 mengerjakan Tugas Praktikum 2 dalam mata kuli
 
 ![update (3)](https://user-images.githubusercontent.com/99266430/232199454-9d6d265d-a8dc-43e9-bf61-2346ded97ac8.png)
 
+
 6. Delete
+
 ![delete (1)](https://user-images.githubusercontent.com/99266430/232199468-cfd55c7c-1c0b-4792-90e8-d8dc485bf3e7.png)
 
 ![delete (2)](https://user-images.githubusercontent.com/99266430/232199476-83f8e770-e73f-4804-9de2-ace2cafcbb88.png)
